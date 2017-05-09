@@ -9,10 +9,12 @@ body {
 .img-sem {
  float: left;
  width: 30%; 
+  margin-right: 12px;
+  margin-bottom: 12px;
 }
 
 .hh-sem {
- clear: both; 
+ 
 }
 .content2 {
   width: 100%;
