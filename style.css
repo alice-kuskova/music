@@ -1,6 +1,10 @@
 body {
+ background: #ecefd8; 
+}
+body.main {
   background: url("background2.png");
 }
+
 .main-header {
   margin-bottom: 0; 
 }
