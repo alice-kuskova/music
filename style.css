@@ -1,7 +1,9 @@
 body {
   background: url("background2.png");
 }
-
+.main-header {
+  margin-bottom: 0; 
+}
 .m-instr {
   width: 25%;
   vertical-align: top;
