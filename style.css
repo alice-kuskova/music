@@ -1,8 +1,8 @@
 body {
- background: #ecefd8; 
+ background: #fbf6d8; 
 }
 body.main {
-  background: url("background2.png");
+  background: #fbf6d8 url("background2.png");
 }
 
 .main-header {
