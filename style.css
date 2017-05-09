@@ -8,6 +8,10 @@ body.main {
 .main-header {
   margin-bottom: 0; 
 }
+
+.main-href {
+ width: 100%;
+}
 .m-instr {
   width: 25%;
 }
