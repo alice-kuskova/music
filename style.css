@@ -2,7 +2,7 @@ body {
  background: #fbf6d8; 
 }
 body.main {
-  background: #fbf6d8 url("background3.png");
+  background: #fbf6d8;
 }
 
 .main-header {
