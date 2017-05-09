@@ -20,4 +20,5 @@ body {
 .content2 {
   width: 100%;
   height: 275px;
+  border: 0;
 }
